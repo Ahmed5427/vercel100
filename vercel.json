@@ -1,18 +1,4 @@
 {
-  "functions": [
-    {
-      "source": "api/generate-letter.js",
-      "function": "handler"
-    },
-    {
-      "source": "api/archive-letter.js", 
-      "function": "handler"
-    },
-    {
-      "source": "api/test.js",
-      "function": "handler"
-    }
-  ],
   "headers": [
     {
       "source": "/(.*)",
